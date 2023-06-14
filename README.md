@@ -14,7 +14,7 @@ This is a simple weather application that uses an API to fetch the weather data.
 The application is very simple to use. Just enter a city name in the input field and Submit it. The application will then fetch the weather data for that city and display it in the output area. It initially provides you with 3 screens, ie. Home, City 1 and City 2. The Home screen shows your locations weather whereas you can change the cities you want to view in city 2 and city 3
 
 ## Accessibility
-| ![image](https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/0958f1aa-2624-4abd-b8a3-8f1d322fe8a5) | ![image](https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/92909a96-f8ad-40d9-9051-52ee50bb5210) | ![image](https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/af308b25-36df-4919-a7ee-650022c075b1) |
+| ![Screenshot 2023-06-15 025318](https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/6d58c383-7d87-4064-8f8f-b5021d3c1bdb) | ![Screenshot 2023-06-15 025402](https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/058c39d1-85a6-4e4c-88a6-3c5d17787346) | ![Screenshot 2023-06-15 025511](https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/2009972b-4969-4e99-89e3-c2daca7480a4) |
 |:--:|:--:|:--:|
 | **First Screen (User Location)** | **Details Displayed** | **Change City to be viewed** |
 
@@ -25,8 +25,7 @@ The output area will display the following information for the selected city:
 - Current wind speed
 - Current weather conditions
 
-https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/c6127b9f-0fd5-4b8c-8ee1-9395c9133302
-
+https://github.com/Secure-Mobile-App-Development/weather-app/assets/93852415/e9e5751f-8ab9-40b2-9d65-aaae148f9cad
 
 ## Use cases
 This application can be used for a variety of purposes, such as:
