@@ -1,0 +1,48 @@
+{
+  "data": [
+    [
+      {
+        "iconName": "temperature-celsius",
+        "propertyName": "Temperature",
+        "propertyUnit": "°C"
+      },
+      {
+        "iconName": "weather-windy",
+        "propertyName": "Wind Speed",
+        "propertyUnit": " kmph"
+      },
+      {
+        "iconName": "sun-wireless-outline",
+        "propertyName": "UV Index",
+        "propertyUnit": " W/m"
+      },
+      {
+        "iconName": "sunglasses",
+        "propertyName": "Visibility",
+        "propertyUnit": " km"
+      }
+    ],
+    [
+      {
+        "iconName": "sun-thermometer",
+        "propertyName": "Feels Like",
+        "propertyUnit": "°C"
+      },
+      {
+        "iconName": "water-outline",
+        "propertyName": "Humidity",
+        "propertyUnit": "%"
+      },
+      {
+        "iconName": "weather-partly-cloudy",
+        "propertyName": "Cloud Cover",
+        "propertyUnit": "%"
+      },
+      {
+        "iconName": "car-brake-low-pressure",
+        "propertyName": "Pressure",
+        "propertyUnit": " MB"
+      }
+    ]
+  ]
+}
