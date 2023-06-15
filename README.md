@@ -53,7 +53,7 @@ cd weather-app
 npm install
 ```
 
-5. Create a `.env` file in the root directory and initialize two variables with the following names
+5. Create a `.env` file in the root directory and initialize a variable with the following name
 ```
 WEATHER_API_KEY="YOUR WEATHER STACK API KEY" 
 // get the key from here https://weatherstack.com/login
